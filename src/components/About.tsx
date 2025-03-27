@@ -8,9 +8,9 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+              src="https://storage.googleapis.com/rivve-web-trial/A45A2458-7BDF-498D-816C-3A93A67438ED_1_105_c.jpeg"
               alt="Coding"
-              className="rounded-lg shadow-lg ring-1 ring-gray-800"
+              className=" rounded-lg shadow-lg ring-1 ring-gray-800"
             />
           </div>
           <div>
