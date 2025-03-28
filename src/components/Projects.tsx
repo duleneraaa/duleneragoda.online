@@ -30,6 +30,16 @@ const Projects = () => {
           </a>
         </div>
 
+        <div className="bg-gray-800 p-6 rounded-lg">
+          <h3 className="text-xl font-semibold mb-2">LER marketplace web</h3>
+          <p className="text-gray-400 mb-4">Machinery and Vehicle marketplace website - www.ler.jp</p>
+          <a href="https://ler.jp" target="_blank" rel="noopener noreferrer">
+            <button className="bg-blue-600 hover:bg-blue-700 text-white py-2 px-4 rounded-lg shadow-md transition">
+                Visit ler.jp
+             </button>
+          </a>
+        </div>
+
 
         <div className="bg-gray-800 p-6 rounded-lg">
           <h3 className="text-xl font-semibold mb-2">Real-Time Event Ticketing System</h3>

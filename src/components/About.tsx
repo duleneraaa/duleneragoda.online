@@ -17,7 +17,12 @@ const About = () => {
             <p className="text-lg text-gray-300 leading-relaxed">
               I'm a passionate Computer Science student at the Informatics Institute of Technology (IIT),
               affiliated with the University of Westminster. I'm constantly learning and exploring new
-              technologies to expand my skillset and create innovative solutions.
+              technologies to expand my skillset and create innovative solutions.<br></br><br></br>
+              With hands-on experience in software development, web design, and cloud computing, I've worked on projects ranging from a real-time event ticketing system to a hostel marketplace, contributing both on the front and back end. My expertise spans Java, Python, React, and cloud services like Microsoft Azure, and I thrive in both independent and team-based environments.
+<br></br><br></br>
+Beyond coding, I have a strong background in leadership and event coordination, having served as the President of the Ananda College Photographic Art Society. Whether it's leading a team, designing a UI, or optimizing a database, I bring enthusiasm, adaptability, and a problem-solving mindset to everything I do.
+
+I'm always eager to connect with like-minded individuals, collaborate on exciting projects, and push the boundaries of what technology can achieve.
             </p>
           </div>
         </div>
